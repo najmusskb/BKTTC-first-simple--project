@@ -1,0 +1,14 @@
+body{background-color: beige;}
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+
+#head-line{
+font: color red;
+position: relative;
+font: large;
+font-style: initial;
+
+}
